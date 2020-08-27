@@ -1,0 +1,8 @@
+[package]
+name = "nvim-templator"
+version = "0.1.0"
+authors = ["Mathew Cohle <mathewcohle@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+neovim-lib = "0.6.1"
